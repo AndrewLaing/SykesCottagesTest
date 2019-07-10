@@ -1,5 +1,8 @@
 # RomanNumeralTest
 
+Completed on 10/07/2019 by Andrew Laing
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 To install this you will need PHP and Composer
 
 running ubuntu this can be installed with `sudo apt install php composer` then in this directory run `composer install`
