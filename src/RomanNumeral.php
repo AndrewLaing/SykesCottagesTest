@@ -46,7 +46,7 @@ class RomanNumeral
             $result = (strpos("IVX", $current)!==false);
             break;
           case "C":
-            $result = (strpos("IVXLDM", $current)!==false);
+            $result = (strpos("IVXLCDM", $current)!==false);
             break;
           case "D":
             $result = (strpos("IVXC", $current)!==false);
